@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import processImg1 from "../assets/process/processImg1.png";
 import processImg2 from "../assets/process/processImg2.png";
-import processImg3 from "../assets/process/processImg3.png";
+import processImg3 from "../assets/process/processimg3.png";
 import mainImage from "../assets/heroImg.png";
 import { motion } from "framer-motion";
 
