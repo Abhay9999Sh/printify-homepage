@@ -1,12 +1,20 @@
-<<<<<<< HEAD
-# React + Vite
+Printify Pro
+Printify Pro is a modern web application that allows users to create, customize, and sell printed products effortlessly. With an intuitive interface and a wide range of customization options, users can bring their creative designs to life and start their own print-on-demand business.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+Tech Stack
+1.React
+2.Vite
+3.Tailwind CSS
+4.Framer Motion
+5.Git & GitHub
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-=======
-# printify-homepage
->>>>>>> aa67b440a37412ab9d7afa8f52e320d772134ba0
+Live Demo
+Check out the live demo of Printify Pro on Vercel: https://printify-pro.vercel.app/
+
+Contribution
+Contributions are welcome! If you have suggestions or improvements, feel free to create a pull request.
+
+License
+This project is licensed under the MIT License.
+
