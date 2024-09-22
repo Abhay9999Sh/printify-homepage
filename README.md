@@ -1,14 +1,14 @@
 Printify Pro
 
-Printify Pro is a modern web application that allows users to create, customize, and sell printed products effortlessly. With an intuitive interface and a wide range of customization options, users can bring their creative designs to life and start their own print-on-demand business.
+Printify Pro is a modern and responsive landing page for a print-on-demand platform. It features dynamic customer reviews, smooth animations, and a clean, user-friendly layout.
 
+Tech Stack:
 
-Tech Stack
-1.React
-2.Vite
-3.Tailwind CSS
-4.Framer Motion
-5.Git & GitHub
+1. React – for building the interactive UI
+2. Vite – for fast project bundling and development
+3. Tailwind CSS – for responsive design and styling
+4. Framer Motion – for smooth animations and transitions
+5. Git & GitHub – for version control and collaboration
 
 Live Demo
 
