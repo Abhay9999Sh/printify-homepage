@@ -33,10 +33,7 @@ const Socialproofs = () => {
                 </button>
                 <div className="flex gap-6 mx-auto">
                     {reviews.slice(currentIndex, currentIndex + 3).map((review, index) => (
-                        <div
-                            key={index}
-                            className="card relative w-72 bg-white border border-gray-200 rounded-lg shadow-lg p-8 text-center transition-transform duration-300"
-                        >
+                        <div key={index} className="card relative w-72 bg-white border border-gray-200 rounded-lg shadow-lg p-8 text-center transition-transform duration-300">
                             <div className="text-yellow-500 mb-4 flex justify-center">
                                 {[...Array(review.stars)].map((_, starIndex) => (
                                     <FontAwesomeIcon icon={faStar} key={starIndex} className="mx-1" />
